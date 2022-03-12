@@ -1,16 +1,12 @@
-### Hi there 👋
+SHAPEAI WEB DEV BOOTCAMP
 
-<!--
-**Saranya0510/Saranya0510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi I made this project during the 7 Days Free Bootcamp, conducted by SHAPEAI. The instructor during the session was Mr. Shaurya Sinha (a Data Analyst at Jio). I got tolearn a lot during these 7 days and it was an amazing experience learning with SHAPEAI.
+I got to have hands on experience on:
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+HTML
+CSS
+during these 7 days, and everything was explained from the very basics so thatanyone with zero experience on programming can learn. I enjoyed these 7 days, you can as well. To register for next free 7 days bootcamp, visit:www.shapeai.tech or follow SHAPEAI on:
+LinkedIn
+Instagram
+YouTube
+GitHub
